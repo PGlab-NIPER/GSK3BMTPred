@@ -176,11 +176,11 @@ will be generated in the working directory.
 
 | Column | Description |
 |---------|-------------|
-| SMILES | Input molecule |
-| Predicted_Probability | Probability of being inhibitor |
+| Name | Input molecule |
+| Predicted_Prob | Probability of being inhibitor |
 | Predicted_Class | Inhibitor / Non-Inhibitor |
 | Predicted_IC50_uM | Predicted IC₅₀ value (µM) |
-| Confidence | Classification confidence score |
+| Predicted_IC50_M | Predicted IC₅₀ value (M)|
 
 ---
 
