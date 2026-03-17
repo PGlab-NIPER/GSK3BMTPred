@@ -44,7 +44,8 @@ Identification of potent and selective GSK3β inhibitors remains a major objecti
 ```
 GSK3BMtPred/
 │
-├── training_scripts/                  # ML and DL model training scripts
+├── TrainingScripts/                   # ML and DL model training scripts
+├── TrainingData/                      # DL Model Training Data
 ├── input/                             # Sample input SMILES files
 ├── PaDEL-Descriptor/                  # PaDEL descriptor software
 ├── padel_config_file/                 # PaDEL descriptor configuration
