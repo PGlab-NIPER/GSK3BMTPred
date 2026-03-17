@@ -133,7 +133,7 @@ Replace `sample.csv` with your input file name.
 #### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/PGlab-NIPER/GSK3BMtPred.git
+git clone https://github.com/PGlab-NIPER/GSK3BMTPred.git
 cd GSK3BMtPred
 git lfs pull
 ```
