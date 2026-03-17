@@ -204,7 +204,6 @@ will be generated in the working directory.
 - Docker-based reproducibility
 - Descriptor normalization included
 - Pre-trained model provided
-- Publication-supported methodology
 - Fully automated prediction pipeline
 
 ---
