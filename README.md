@@ -1,4 +1,4 @@
-# 🧬 GSK3BMtPred
+# 🧬 GSK3BMTPred
 
 ## Multi-Task Deep Learning Model for Prediction of GSK3β Inhibitors and IC₅₀ Values
 
@@ -6,7 +6,7 @@
 
 ## 📖 Overview
 
-**GSK3BMtPred** is a multi-task deep neural network (DNN)-based predictive framework developed for the identification of **Glycogen Synthase Kinase-3β (GSK3β) inhibitors**.
+**GSK3BMTPred** is a multi-task deep neural network (DNN)-based predictive framework developed for the identification of **Glycogen Synthase Kinase-3β (GSK3β) inhibitors**.
 
 The model performs:
 
@@ -210,7 +210,7 @@ will be generated in the working directory.
 
 ## 📖 Citation
 
-If you use **GSK3BMtPred** in your research, please cite:
+If you use **GSK3BMTPred** in your research, please cite:
 
 ```bibtex
 
