@@ -42,7 +42,7 @@ Identification of potent and selective GSK3β inhibitors remains a major objecti
 ## 📂 Repository Structure
 
 ```
-GSK3BMtPred/
+GSK3BMTPred/
 │
 ├── TrainingScripts/                   # ML and DL model training scripts
 ├── TrainingData/                      # DL Model Training Data
@@ -114,7 +114,7 @@ A reference file (`sample.csv`) is provided.
 
 ## 🚀 Usage
 
-You can run GSK3BTPred using either a prebuilt Docker image or by building locally.
+You can run GSK3BMTPred using either a prebuilt Docker image or by building locally.
 
 ---
 
