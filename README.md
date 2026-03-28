@@ -47,9 +47,9 @@ GSK3BMtPred/
 ├── TrainingScripts/                   # ML and DL model training scripts
 ├── TrainingData/                      # DL Model Training Data
 ├── sample.csv                         # Sample input SMILES files
-├── PaDEL-Descriptor/                  # PaDEL descriptor software
+├── PaDEL/                             # PaDEL descriptor software
 ├── padel_config_file/                 # PaDEL descriptor configuration
-├── padel_descriptor_file.xml          # Descriptor selection file
+├── padel_destype.xml                  # Descriptor selection file
 ├── Dockerfile                         # Docker environment specification
 ├── gsk3bmtpred_predict.py             # Prediction pipeline script
 ├── padel_scaler.pkl                   # Pre-trained normalization model
