@@ -78,7 +78,6 @@ GSK3BMTPred/
    - Probability score
    - Predicted class
    - Predicted IC₅₀ (µM)
-   - Confidence score
 
 ---
 
