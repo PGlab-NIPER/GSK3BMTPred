@@ -179,7 +179,6 @@ will be generated in the working directory.
 | Predicted_Prob | Probability of being inhibitor |
 | Predicted_Class | Inhibitor / Non-Inhibitor |
 | Predicted_IC50_uM | Predicted IC₅₀ value (µM) |
-| Predicted_IC50_M | Predicted IC₅₀ value (M)|
 
 ---
 
